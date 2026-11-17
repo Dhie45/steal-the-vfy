@@ -1,0 +1,1 @@
+{"dependencies":{"circomlibjs":"^0.1.7","snarkjs":"^0.7.6","viem":"^2.57.20"},"description":"zkVerify Agent Games — Steal the VFY agent (Poseidon-committed policy + Groth16 proof per turn)","main":"server.mjs","name":"steal-the-vfy-agent","scripts":{"commitment":"node scripts/commitment.mjs","start":"node start.mjs","test":"node test/test.mjs"},"type":"module","version":"1.0.0"}
